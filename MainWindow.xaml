@@ -1,0 +1,14 @@
+﻿<Window x:Class="野兽先辈一键咆哮v114514.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:野兽先辈一键咆哮v114514"
+        mc:Ignorable="d"
+        Title="野兽先辈一键咆哮v114514" Height="673.228" Width="824.684">
+    <Grid Margin="0,0,0,-132">
+
+        <Image Margin="0,0,0,134" Source="uTools_1649927244977.png" Stretch="Fill" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Content="一键咆哮" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Margin="345,90,0,0" Height="52" Click="Button_Click"/>
+    </Grid>
+</Window>

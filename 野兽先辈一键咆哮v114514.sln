@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "野兽先辈一键咆哮v114514", "野兽先辈一键咆哮v114514.csproj", "{9AB6E27A-D95C-43DE-8E27-DCC47C29AFB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB6E27A-D95C-43DE-8E27-DCC47C29AFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB6E27A-D95C-43DE-8E27-DCC47C29AFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB6E27A-D95C-43DE-8E27-DCC47C29AFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB6E27A-D95C-43DE-8E27-DCC47C29AFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FC1EA5-447B-4F3E-B471-CF8EE19457A8}
+	EndGlobalSection
+EndGlobal
